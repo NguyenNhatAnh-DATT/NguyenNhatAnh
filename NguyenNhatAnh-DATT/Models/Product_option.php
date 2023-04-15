@@ -8,5 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class Product_option extends Model
 {
     use HasFactory;
-    protected $table='ntt_product_option';
+    protected $table='nna_product_option';
 }
