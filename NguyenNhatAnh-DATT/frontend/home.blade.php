@@ -24,7 +24,6 @@
                                     <ul>
                                         <li><a href="#">Nike </a></li>
                                         <li><a href="#">Adidas </a></li>
-                                        <li><a href="#">Puma</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -45,19 +44,19 @@
                                         <a>
                                             Nike
                                         </a>
-                                        
+                                        <ul>
+                                        <li><a href="#">nike</a></li>
+                                        <li><a href="#">Leonardo</a></li>
+                                        </ul>
                                     </h4>
                                     <h4 class="shoes-title">
                                         <a>
                                             Adidas
                                         </a>
-                                        
-                                    </h4>
-                                    <h4 class="shoes-title">
-                                        <a>
-                                            Puma
-                                        </a>
-                                        
+                                        <ul>
+                                        <li><a href="#">Classic</a></li>
+                                        <li><a href="#">Archive Adicolor</a></li>
+                                        </ul>
                                     </h4>
                                 </div>
                             </div>
@@ -73,15 +72,15 @@
                         <div class="product-image-wrapper">
                             <div class="single-products">
                                     <div class="productinfo text-center">
-                                        <img src="images/home/adidas.jpg" alt="" />
+                                        <img src="images/home/nike.jpg" alt="" />
                                         <h2>240000</h2>
-                                        <p>Balo thể thao</p>
+                                        <p>Balo nike</p>
                                         <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
                                     </div>
                                     <div class="product-overlay">
                                         <div class="overlay-content">
                                             <h2>240000</h2>
-                                            <p>Balo thể thao</p>
+                                            <p>Balo nike</p>
                                             <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
                                         </div>
                                     </div>
@@ -92,15 +91,15 @@
                         <div class="product-image-wrapper">
                             <div class="single-products">
                                 <div class="productinfo text-center">
-                                    <img src="images/home/adidas.jpg" alt="" />
+                                    <img src="images/home/nike.jpg" alt="" />
                                     <h2>400000</h2>
-                                    <p>Balo thể thao</p>
+                                    <p>Balo nike</p>
                                     <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
                                 </div>
                                 <div class="product-overlay">
                                     <div class="overlay-content">
                                         <h2>400000</h2>
-                                        <p>Balo thể thao</p>
+                                        <p>Balo nike</p>
                                         <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
                                     </div>
                                 </div>
@@ -111,15 +110,15 @@
                         <div class="product-image-wrapper">
                             <div class="single-products">
                                 <div class="productinfo text-center">
-                                    <img src="images/home/balo.jpg" alt="" />
+                                    <img src="images/home/adidas.png" alt="" />
                                     <h2>340000</h2>
-                                    <p>Balo thời trang Nam</p>
+                                    <p>Balo Nam</p>
                                     <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
                                 </div>
                                 <div class="product-overlay">
                                     <div class="overlay-content">
                                         <h2>340000</h2>
-                                        <p>Balo thời trang Nam</p>
+                                        <p>Balo Nam</p>
                                         <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
                                     </div>
                                 </div>
@@ -131,15 +130,15 @@
                         <div class="product-image-wrapper">
                             <div class="single-products">
                                 <div class="productinfo text-center">
-                                    <img src="images/home/ac.jfif" style="max-width:230px;" alt="" />
+                                    <img src="images/home/balo.png" style="max-width:230px;" alt="" />
                                     <h2>340000</h2>
-                                    <p>Balo thời trang Nam</p>
+                                    <p>Balo nam</p>
                                     <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
                                 </div>
                                 <div class="product-overlay">
                                     <div class="overlay-content">
                                         <h2>340000</h2>
-                                        <p>Balo thời trang Nam</p>
+                                        <p>Balo Nam</p>
                                         <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
                                     </div>
                                 </div>
@@ -152,15 +151,15 @@
                         <div class="product-image-wrapper">
                             <div class="single-products">
                                 <div class="productinfo text-center">
-                                    <img src="images/home/nikee.jpg" alt="" />
+                                    <img src="images/home/adidas.png" alt="" />
                                     <h2>210000</h2>
-                                    <p>Balo thời trang nữ</p>
+                                    <p>Balo Nữ</p>
                                     <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
                                 </div>
                                 <div class="product-overlay">
                                     <div class="overlay-content">
                                         <h2>210000</h2>
-                                        <p>Balo thời trang nữ</p>
+                                        <p>Balo Nữ</p>
                                         <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
                                     </div>
                                 </div>
@@ -184,9 +183,9 @@
                                 <div class="product-image-wrapper">
                                     <div class="single-products">
                                         <div class="productinfo text-center">
-                                            <img src="images/home/nikee.jpg" alt="" />
+                                            <img src="images/home/nike.jpg" alt="" />
                                             <h2>200000</h2>
-                                            <p>Balo thời trang nữ</p>
+                                            <p>Balo Thời Trang</p>
                                             <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
                                         </div>
                                     </div>
@@ -196,7 +195,7 @@
                                 <div class="product-image-wrapper">
                                     <div class="single-products">
                                         <div class="productinfo text-center">
-                                            <img src="images/home/nike.jpg" alt="" />
+                                            <img src="images/home/nike.png" alt="" />
                                             <h2>210000</h2>
                                             <p>nike </p>
                                             <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
@@ -209,9 +208,9 @@
                                 <div class="product-image-wrapper">
                                     <div class="single-products">
                                         <div class="productinfo text-center">
-                                            <img src="images/home/tui.jfif" alt="" />
+                                            <img src="images/home/tui.png" alt="" />
                                             <h2>450000</h2>
-                                            <p> Túi đeo chéo </p>
+                                            <p>túi đeo chéo</p>
                                             <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
                                         </div>
                                     </div>
